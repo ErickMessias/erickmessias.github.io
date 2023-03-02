@@ -1,0 +1,30 @@
+Projeto Portifólio
+
+
+PROBLEMA
+	Criar um currículo online para iniciar uma presença digital
+	
+
+Pesquisa
+	Lista de projetos/ trabalhos e habilidades
+
+Conteúdo
+	Texto inicial sobre o que faço, foto
+	Menu - Experiência/Projetos, Formação e Contato
+
+	EXPERIEÊNCIA
+	Nome do projeto, quando foi feito, tecnologiaas utilizadas
+
+	FORMAÇÃO
+	Onde, quando e o título
+	Cursos profissional/intensivo
+	Idiomas
+
+	CONTATO
+	email, telefone e rede social
+
+Protótipo
+
+
+TIPOGRAFIA USADA
+	Fira Sans
